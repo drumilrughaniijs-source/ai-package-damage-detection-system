@@ -1,0 +1,35 @@
+[server]
+maxUploadSize = 15
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#C2410C"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFontWeights = [700, 600, 600, 600, 600, 600]
+baseRadius = "10px"
+showWidgetBorder = true
+redColor = "#DC2626"
+greenColor = "#16A34A"
+orangeColor = "#EA580C"
+yellowColor = "#F59E0B"
+violetColor = "#7C3AED"
+blueColor = "#2563EB"
+chartCategoricalColors = ["#16A34A", "#7C3AED", "#DC2626", "#2563EB", "#F59E0B", "#64748B"]
+
+[theme.light]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F4EF"
+textColor = "#1C1917"
+borderColor = "#E7E2DA"
+
+[theme.dark]
+backgroundColor = "#14110F"
+secondaryBackgroundColor = "#221D19"
+textColor = "#F5F1EB"
+borderColor = "#3A322B"
+primaryColor = "#F97316"
+
+[client]
+toolbarMode = "viewer"

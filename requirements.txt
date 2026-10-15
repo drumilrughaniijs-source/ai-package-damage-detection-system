@@ -1,0 +1,12 @@
+streamlit>=1.64
+opencv-python>=4.10
+numpy
+pandas
+altair
+torch
+torchvision
+scikit-learn
+joblib
+open_clip_torch>=3.0
+pillow
+huggingface_hub
